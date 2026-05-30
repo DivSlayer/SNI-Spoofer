@@ -6,5 +6,53 @@
   {
     "name": "Technologia - France",
     "link": "trojan://humanity@127.0.0.1:40443?security=tls&sni=www.ignitelimit.com&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=%2Fassignment#Technologia%20%3A%20Franch"
+  },
+  {
+    "name": "NetAccount",
+    "link": "trojan://humanity@127.0.0.1:40443?security=tls&sni=www.ignitelimit.com&fp=random&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=%2Fassignment#NetAccount"
+  },
+  {
+    "name": "ShatakVPN - calmlunch",
+    "link": "trojan://humanity@127.0.0.1:40443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#ShatakVPN"
+  },
+  {
+    "name": "ShatakVPN - gossipglove",
+    "link": "trojan://humanity@127.0.0.1:40443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#ShatakVPN"
+  },
+  {
+    "name": "SPOOf - creationlong",
+    "link": "trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#SPOOf"
+  },
+  {
+    "name": "APPXA - gossipglove",
+    "link": "trojan://humanity@127.0.0.1:40443?security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=%2Fassignment#APPXA"
+  },
+  {
+    "name": "DEEP - multiplydose",
+    "link": "trojan://humanity@127.0.0.1:40443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2F%2Fassignment#DEEP"
+  },
+  {
+    "name": "AmyraxVPN - multiplydose",
+    "link": "trojan://humanity@127.0.0.1:40443?security=tls&sni=www.multiplydose.com&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#AmyraxVPN"
+  },
+  {
+    "name": "Amphetamine",
+    "link": "vless://14c44521-e28f-4561-a12c-337d8cc44d87@127.0.0.1:40443?encryption=none&security=tls&sni=amphetamine.yhbj.store&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=xhttp&host=amphetamine.yhbj.store&path=%2FTiMbErSaW&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D#Amphetamine"
+  },
+  {
+    "name": "Focalin",
+    "link": "vless://cbf524f0-4d7c-4173-aafb-e9f0608b3192@127.0.0.1:40443?encryption=none&security=tls&sni=focalin.yhbj.store&alpn=h2%2Chttp%2F1.1%2Ch3&type=xhttp&host=focalin.yhbj.store&path=%2FGoorbeh&mode=auto#Focalin"
+  },
+  {
+    "name": "CLAYX Tunnel",
+    "link": "vless://2b851a5d-4bb0-4d3a-8d86-3aa2e0f68dd7@127.0.0.1:40443?encryption=none&security=tls&sni=server.clay.qzz.io&fp=chrome&allowInsecure=1&type=ws&host=server.clay.qzz.io&path=%2F#CLAYX"
+  },
+  {
+    "name": "AmyraxVPN - creationlong",
+    "link": "trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#AmyraxVPN"
+  },
+  {
+    "name": "Technologia - Poland",
+    "link": "trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#Technologia-Poland"
   }
 ]
