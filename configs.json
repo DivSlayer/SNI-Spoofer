@@ -1,0 +1,10 @@
+[
+  {
+    "name": "SONIC",
+    "link": "vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@127.0.0.1:40443?encryption=none&security=tls&sni=cyylr.eu.cc&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=cyylr.eu.cc&path=%2Fsg-melbi#%20SONIC"
+  },
+  {
+    "name": "Technologia - France",
+    "link": "trojan://humanity@127.0.0.1:40443?security=tls&sni=www.ignitelimit.com&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=%2Fassignment#Technologia%20%3A%20Franch"
+  }
+]
